@@ -21,3 +21,11 @@
 **academy_run_pass_and_shoot_with_keeper**
 
 ![image](./arp.gif)
+
+![image](./aegc.gif)
+
+![image](./11V11e.gif)
+
+![image](./aeg.gif)
+
+![image](./ac.gif)
